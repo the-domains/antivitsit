@@ -4,7 +4,7 @@
         <description><![CDATA[Antivitsit]]></description>
         <link>https://thegrid.ai/antivitsit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 21:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 22:04:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/antivitsit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tulkki]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/antivitsit/tulkki/index.html</link>
             <guid isPermaLink="false">609e3ef6-3335-4cb4-bac3-4694b63f21bf</guid>
             <pubDate>Mon, 18 Jan 2016 21:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Itä-Saksalainen käsienpesu]]></title>
+            <description><![CDATA[<article><h1>Itä-Saksalainen käsienpesu</h1><p>Suomalainen mies meni julkiseen käymälään Itä-Saksassa.</p></article>]]></description>
+            <link>https://thegrid.ai/antivitsit/ita-saksalainen-kasienpesu/index.html</link>
+            <guid isPermaLink="false">2c05f699-48c0-4331-80f1-2d29ba3a86e7</guid>
+            <pubDate>Mon, 18 Jan 2016 22:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ikkunanpesijän peliongelma]]></title>
