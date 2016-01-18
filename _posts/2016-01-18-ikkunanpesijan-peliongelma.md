@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T22:05:21.801Z'
+datePublished: '2016-01-18T22:05:21.930Z'
 dateModified: '2016-01-18T22:05:18.602Z'
 title: Ikkunanpesijän peliongelma
 author: []
