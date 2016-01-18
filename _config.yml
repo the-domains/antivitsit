@@ -1,0 +1,28 @@
+name: Antivitsit
+favicon: null
+layout_spectrum: 0.3954777920152992
+typography_spectrum: 0.5659148506820202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8504877025261521
+  lightness: 0.9628557809628546
+  saturation: 0.30104325083084404
+  rhythmicContrast: 0.18425167445093393
+purpose: []
