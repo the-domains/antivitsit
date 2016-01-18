@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Antivitsit]]></title>
         <description><![CDATA[Antivitsit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antivitsit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 21:15:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 21:51:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antivitsit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tulkki]]></title>
+            <description><![CDATA[<article><h1>Tulkki</h1><p>Olin kerran illastamassa erään ystäväni perheen luona. Voisi sanoa, että en ymmärtänyt ystäväni poliittista kantaa laisinkaan. Jo alkupalojen aikana syntyi välikohtaus, jonka kaltaista olin pelännyt tältä yhteiseltä illanvietolta.</p></article>]]></description>
+            <link>https://thegrid.ai/antivitsit/tulkki/index.html</link>
+            <guid isPermaLink="false">609e3ef6-3335-4cb4-bac3-4694b63f21bf</guid>
+            <pubDate>Mon, 18 Jan 2016 21:50:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Haisunäädännostokilpailu]]></title>
             <description><![CDATA[<article><h1>Haisunäädännostokilpailu</h1><p>Suomalainen, ruotsalainen ja norjalainen kilpailivat siitä, kuka heistä nostaa eniten haisunäätiä.</p></article>]]></description>
-            <link>undefinedhaisunaadannostokilpailu/index.html</link>
+            <link>https://thegrid.ai/antivitsit/haisunaadannostokilpailu/index.html</link>
             <guid isPermaLink="false">6c747c03-b1bb-4a9e-b937-dd4a12604486</guid>
             <pubDate>Mon, 18 Jan 2016 21:15:55 GMT</pubDate>
         </item>
