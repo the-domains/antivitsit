@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Antivitsit]]></title>
+        <description><![CDATA[Antivitsit]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 21:15:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Haisunäädännostokilpailu]]></title>
+            <description><![CDATA[<article><h1>Haisunäädännostokilpailu</h1><p>Suomalainen, ruotsalainen ja norjalainen kilpailivat siitä, kuka heistä nostaa eniten haisunäätiä.</p></article>]]></description>
+            <link>undefinedhaisunaadannostokilpailu/index.html</link>
+            <guid isPermaLink="false">6c747c03-b1bb-4a9e-b937-dd4a12604486</guid>
+            <pubDate>Mon, 18 Jan 2016 21:15:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
