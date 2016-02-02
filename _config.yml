@@ -1,7 +1,7 @@
 name: Antivitsit
 favicon: null
-layout_spectrum: 0.3954777920152992
-typography_spectrum: 0.90078
+layout_spectrum: 0.9652
+typography_spectrum: 0.92401
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#666661'
     - '#de594a'
     - '#53a258'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.9628557809628546
-  saturation: 0.125
-  rhythmicContrast: 1
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
